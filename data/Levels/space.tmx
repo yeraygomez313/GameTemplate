@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.1" orientation="orthogonal" renderorder="right-down" width="30" height="17" tilewidth="64" tileheight="64" infinite="0" nextlayerid="5" nextobjectid="1">
+ <tileset firstgid="1" source="images/tilemap/tilesetSpace.tsx"/>
+ <layer id="1" name="Capa de patrones 1" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJzjY2Bg4BvFo3gUj+JRPIpH8YjAAGaxG+U=
+  </data>
+ </layer>
+ <layer id="2" name="Capa de patrones 2" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwUgBAAf4AAE=
+  </data>
+ </layer>
+ <layer id="3" name="Capa de patrones 3" width="30" height="17">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwUgBAAf4AAE=
+  </data>
+ </layer>
+ <objectgroup id="4" name="Capa de Objetos 1"/>
+</map>
