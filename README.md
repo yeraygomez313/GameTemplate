@@ -26,6 +26,6 @@ Each time all enemies are eliminated, the game:
 - Boosts enemy speed after a certain number of waves.  
 - Has a probability of spawning power-ups after clearing a wave.  
 
-## Add Image Here
+## GAME IMAGE
 
 ![Game Screenshot](data/Images/Photo/photo.png)
